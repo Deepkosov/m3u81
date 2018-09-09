@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:0 group-title="Kombetare",AL: RTK 1
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9636.ts
+#EXTINF:0 group-title="Kombetare",AL: RTSH korca
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21586.ts
+#EXTINF:0 group-title="Kombetare",AL: KTV HD
+http://178.251.228.235:8000/live/Albaa/Tjdndn/193.ts
+#EXTINF:0 group-title="Kombetare",AL: Top Channel
+http://178.251.228.235:8000/live/Albaa/Tjdndn/178.ts
+#EXTINF:0 group-title="Kombetare",AL: Klan PLus
+http://178.251.228.235:8000/live/Albaa/Tjdndn/31.ts
+#EXTINF:0 group-title="Kombetare",AL: Klan TV HD
+http://178.251.228.235:8000/live/Albaa/Tjdndn/33.ts
+#EXTINF:0 group-title="Kombetare",AL: Klan Kosova HD
+http://178.251.228.235:8000/live/Albaa/Tjdndn/194.ts
+#EXTINF:0 group-title="Kombetare",AL: NEWS 24
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21433.ts
+#EXTINF:0 group-title="Kombetare",AL: RTSH1 HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21497.ts
+#EXTINF:0 group-title="Kombetare",AL: RTSH2 HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21498.ts
+#EXTINF:0 group-title="Kombetare",AL: RTSH3 HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21499.ts
+#EXTINF:0 group-title="Kombetare",AL: TV+
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11429.ts
+#EXTINF:0 group-title="Dokumentare",AL: Fantasy
+http://178.251.228.235:8000/live/Albaa/Tjdndn/197.ts
+#EXTINF:0 group-title="Dokumentare",AL: 3 Plys
+http://178.251.228.235:8000/live/Albaa/Tjdndn/196.ts
+#EXTINF:0 group-title="Dokumentare",AL: Jolly HD
+http://178.251.228.235:8000/live/Albaa/Tjdndn/195.ts
+#EXTINF:0 group-title="Dokumentare",AL: EXPLORER Natyra
+http://178.251.228.235:8000/live/Albaa/Tjdndn/44.ts
+#EXTINF:0 group-title="Dokumentare",AL: EXPLORER Histori
+http://178.251.228.235:8000/live/Albaa/Tjdndn/45.ts
+#EXTINF:0 group-title="Kinema",AL: Film Aksion
+http://178.251.228.235:8000/live/Albaa/Tjdndn/179.ts
+#EXTINF:0 group-title="Kinema",AL: T-HD
+http://178.251.228.235:8000/live/Albaa/Tjdndn/35.ts
+#EXTINF:0 group-title="Kinema",AL: Family HD
+http://178.251.228.235:8000/live/Albaa/Tjdndn/36.ts
+#EXTINF:0 group-title="Kinema",AL: TRING SUPER
+http://178.251.228.235:8000/live/Albaa/Tjdndn/27.ts
+#EXTINF:0 group-title="Kinema",AL: Film Thriller
+http://178.251.228.235:8000/live/Albaa/Tjdndn/38.ts
+#EXTINF:0 group-title="Kinema",AL: Film Hits
+http://178.251.228.235:8000/live/Albaa/Tjdndn/34.ts
+#EXTINF:0 group-title="Kinema",AL: Film Nje
+http://178.251.228.235:8000/live/Albaa/Tjdndn/49.ts
+#EXTINF:0 group-title="Kinema",AL: Film Dy
+http://178.251.228.235:8000/live/Albaa/Tjdndn/50.ts
+#EXTINF:0 group-title="Kinema",AL: Film Drame
+http://178.251.228.235:8000/live/Albaa/Tjdndn/48.ts
+#EXTINF:0 group-title="Kinema",AL: Film Autor
+http://178.251.228.235:8000/live/Albaa/Tjdndn/47.ts
+#EXTINF:0 group-title="Sport",AL: SuperSport1HD
+http://178.251.228.235:8000/live/Albaa/Tjdndn/105.ts
+#EXTINF:0 group-title="Sport",AL: SuperSport2 HD
+http://178.251.228.235:8000/live/Albaa/Tjdndn/181.ts
+#EXTINF:0 group-title="Sport",AL: SuperSport3HD
+http://178.251.228.235:8000/live/Albaa/Tjdndn/107.ts
+#EXTINF:0 group-title="Sport",AL: SuperSport4HD
+http://178.251.228.235:8000/live/Albaa/Tjdndn/108.ts
+#EXTINF:0 group-title="Femije",Bang bang||
+http://178.251.228.235:8000/live/Albaa/Tjdndn/41.ts
+#EXTINF:0 group-title="Femije",!!!Cufo Tv!!
+http://178.251.228.235:8000/live/Albaa/Tjdndn/180.ts
+#EXTINF:0 group-title="Femije",Junior Tv||
+http://178.251.228.235:8000/live/Albaa/Tjdndn/43.ts
